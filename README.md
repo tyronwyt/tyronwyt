@@ -11,7 +11,7 @@ I have worked as a Frontend Developer in various industries such as travel, fina
 - 👨🏻‍💻 I'm currently working at [graze](https://graze.com)
 - 🌱 I'm currently learning React and UX.
 - 📫 How to reach me: 
-  - Portfolio: [tyron.dev](tyron.dev)
+  - Portfolio: [tyron.dev](https://tyron.dev)
   - Twitter: [@TyronRGB](https://twitter.com/TyronRGB)
   - LinkedIn: [tyronwytrykowski](https://www.linkedin.com/in/tyronwytrykowski/)
 <!-- **tyronwyt/tyronwyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
