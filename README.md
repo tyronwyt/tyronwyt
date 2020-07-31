@@ -1,7 +1,7 @@
 ### Hi, I'm Tyron 👋 
 ##### Frontend Developer & Designer
 
-![profile hero image](/images/portfolio.gif)
+![profile hero image](https://github.com/tyronwyt/tyronwyt/blob/master/images/portfolio.gif?raw=true)
 
 Originally from South Africa, I moved to the UK in 2015. I am a self-taught Frontend Developer with a background in Graphic and Web Design.
 I have worked as a Frontend Developer in various industries such as travel, finance and publishing. I enjoy working with frameworks such as [ReactJS](https://reactjs.org/ "React") and [GatsbyJS](https://www.gatsbyjs.org/ "Gatsby").
