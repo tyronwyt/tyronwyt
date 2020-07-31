@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Tyron 👋 
+##### Frontend Developer & Designer
+---
 
+![profile hero image](/images/portfolio.gif)
 <!--
 **tyronwyt/tyronwyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
