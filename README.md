@@ -8,7 +8,6 @@ I have worked as a Frontend Developer in various industries such as travel, fina
 
 ---
 
-- 👨🏻‍💻 I'm currently working at [graze](https://graze.com)
 - 🌱 I'm currently learning React and UX.
 - 📫 How to reach me: 
   - Portfolio: [tyron.dev](https://tyron.dev)
